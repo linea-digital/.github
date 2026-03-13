@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.svg" alt="Línea Digital" width="160" height="48" />
+  <img src="../assets/logo-white.png" alt="Línea Digital" width="160" height="48" />
 </p>
 
 <p align="center">
