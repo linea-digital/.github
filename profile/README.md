@@ -19,10 +19,6 @@
 
 ---
 
-### Producto
-
-Plataforma de **Línea Digital del Sureste**: sitio de marketing digital, API con IA (Gemini), gestión de inventario TI y herramientas internas.
-
 | Repositorio | Descripción |
 | :--- | :--- |
 | [**linea-digital-astro**](https://github.com/linea-digital/linea-digital-astro) | **Sitio de marketing digital** — Astro 5, React 18, NestJS 10, Contentful, Gemini AI (chatbot Lía), Brevo, Swiper, Vercel |
