@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Distribuidor Telcel Premium — Soluciones tecnológicas corporativas</em>
+  <em>Distribuidor Telcel Premium — Soluciones tecnológicas y sitio de marketing digital</em>
 </p>
 
 <p align="center">
@@ -21,17 +21,17 @@
 
 ### Producto
 
-Plataforma corporativa de **Línea Digital del Sureste**: sitio web, API con IA (Gemini), gestión de inventario TI y herramientas internas. Monorepo Astro + NestJS, Contentful, Brevo.
+Plataforma de **Línea Digital del Sureste**: sitio de marketing digital, API con IA (Gemini), gestión de inventario TI y herramientas internas.
 
 | Repositorio | Descripción |
 | :--- | :--- |
-| [**linea-digital-astro**](https://github.com/linea-digital/linea-digital-astro) | Sitio web corporativo — Astro, React, NestJS, Contentful, Gemini AI, chatbot Lía |
-| [**inventario-ti-lds**](https://github.com/linea-digital/inventario-ti-lds) | Sistema de inventario TI y soporte técnico — activos, usuarios, asignaciones |
+| [**linea-digital-astro**](https://github.com/linea-digital/linea-digital-astro) | **Sitio de marketing digital** — Astro 5, React 18, NestJS 10, Contentful, Gemini AI (chatbot Lía), Brevo, Swiper, Vercel |
+| [**inventario-ti-lds**](https://github.com/linea-digital/inventario-ti-lds) | Sistema de inventario TI y soporte técnico — Vue 3, Vite, PrimeVue, Express, Prisma, MySQL |
 | [**ruleta-ld**](https://github.com/linea-digital/ruleta-ld) | Ruleta Navideña — Amigo Secreto y Rifas de premios (Full Stack + SPA) |
 
 ---
 
-### Stack
+### Stack (linea-digital-astro)
 
-**Frontend:** Astro · React · Tailwind CSS · Contentful  
-**Backend:** NestJS · TypeScript · Gemini AI · Brevo · Nodemailer
+**Frontend:** Astro 5 · React 18 · Tailwind CSS · Contentful · Swiper · react-simple-maps  
+**Backend:** NestJS 10 · TypeScript · Gemini AI · Brevo · Nodemailer · Swagger
